@@ -1,0 +1,18 @@
+h1{
+    text-align: center;
+    color: blueviolet;
+    font-size: x-large;
+}
+body{
+    background-color: skyblue;
+    border: solid royalblue;
+}
+.space{
+    margin-left: 150px;
+    text-align: center;
+}
+.spy{
+    text-align: center;
+position: relative;top: 18px;
+padding-right: 150px;
+}

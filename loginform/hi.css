@@ -1,0 +1,21 @@
+h1{
+    text-align: center;
+    font-size: xx-large;
+    color: blue;
+}
+.spo{
+    text-align: center;
+    
+}
+.god{
+    text-align: center;
+    position: relative;
+}
+body{
+    border: solid black;
+    width: 500px;
+    background-color: aquamarine;
+    margin-left: 420px;
+    margin-top: 200px;
+    background-image: url(photo-1542273917363-3b1817f69a2d.jpg);
+}
