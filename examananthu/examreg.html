@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link type="text/css" rel="stylesheet" href="examreg.css">
+</head>
+<body>
+     <h1>REGISTRATION</h1>
+    <form onsubmit="return validate()" >
+      <div class="emo">  
+    <p><label for="firstname">firstname:</label>
+    <input type="text" name="firstname" id="firstname"><br><br></p>
+    <p><label for="lastname">lastname:</label>
+    <input type="lastname" name="lastname" id="lastname"><br><br></p>
+    <p><label for="password">password:</label>
+    <input type="password" name="password" id="password"><br><br></p>
+    <p><label for="confirmpassword">confirm password:</label>
+    <input type="cpassword" name="cpassword" id="cpassword"><br><br></p>
+    <p><label for="email">email:</label>
+    <input type="email" name="email" id="email"><br><br></p>
+    <p><label for="dob">dob:</label>
+    <input type="date" name="dob" id="dob"><br><br></p>
+    <p><label for="address">address:</label>
+    <textarea id="address" name="address"></textarea><br><br></p>
+    <center><input type="submit" value="submit"></center>
+      </div>
+        
+    </form>
+    <script>
+        function validate()
+        {
+            var firstname=document.getElementById("firstname");
+            var lastname=document.getElementById("lastname");
+            var password=document.getElementById("password");
+            var confirmpassword=document.getElementById("cpassword");
+            var email=document.getElementById("email");
+            var dob=document.getElementById("dob");
+            var address=document.getElementById("address");
+            var mailformat = /^([A-Za-z0-9_\-\.])+\@([A-Za-z0-9_\-\.])+\.([A-Za-z]{2,4})$/;
+        
+            if(firstname.value=="")
+            {
+                alert("please fill the first name");
+                return false;
+            }
+            if(lastname.value=="")
+            {
+                alert("please fill the last name");
+                return false;
+            }
+            if(password.value=="")
+            {
+                alert("please fill the password");
+                return false;
+            }
+            if(cpassword.value!=password.value)
+            {
+                alert("missmatch");
+                return false;
+            }
+            if(email.value=="")
+            {
+                alert("please fill the email");
+                return false;
+            }
+           if(!email.value.match(mailformat))
+           {
+            alert("invalid email");
+            return false;
+           }
+
+            if(dob.value=="")
+            {
+                alert("please fill the dob");
+                return false;
+            }
+            if(address.value=="")
+            {
+                alert("please fill the address");
+                return false;
+            }
+            
+            else
+            {
+                alert('registration successfully');
+                return true;
+            }
+            }
+     </script>
+</body>
+</html>
