@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body onload="generateRandomNumber()">
+    Enter the Captcha Text:  
+    <input type="text" id="txtCompare" />  
+    <input type="text" id="txtCaptcha" style="text-align: center; border: none; font-weight: bold; font-size: 20px; font-family: Modern" />  
+
+    <input type="button" id="btnrefresh" value="Refresh" onclick="generateRandomNumber();" />  
+    <input id="btnValid" type="button" value="Check" onclick="alert(ValidCaptcha());" />  
+
+    
+    <script>
+        function generateRandomNumber()
+     {
+      var randomValues = '';
+      var stringValues = 'ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789';
+      var sizeOfCharacter = stringValues.length;
+      for (var i = 0; i < 6; i++) 
+      {
+         randomValues+=stringValues.charAt(Math.floor(Math.random() * sizeOfCharacter));
+      }
+    document.getElementById("txtCaptcha").value=randomValues;
+   }
+
+
+   
+   function ValidCaptcha()
+    {  
+            var str1 = document.getElementById('txtCaptcha').value;  
+            var str2 = document.getElementById('txtCompare').value;  
+            if (str1 == str2) return true;  
+            return false;      
+     }  
+  </script>
+</body>
+</html>
+</body>
+</html>

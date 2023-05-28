@@ -1,0 +1,136 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link type="text/css" rel="stylesheet" href="validation.css">
+</head>
+<body>
+    <body onload="generateRandomNumber()">
+ <h1>REGISTRATION</h1>
+    <form onsubmit="return validate()" action="hi.html">
+      <div class="emo">  
+    <p><label for="firstname">firstname:</label>
+    <input type="text" name="firstname" id="firstname"><br><br></p>
+    <p><label for="lastname">lastname:</label>
+    <input type="lastname" name="lastname" id="lastname"><br><br></p>
+    <p><label for="password">password:</label>
+    <input type="password" name="password" id="password"><br><br></p>
+    <p><label for="confirmpassword">confirm password:</label>
+    <input type="cpassword" name="cpassword" id="cpassword"><br><br></p>
+    <p><label for="email">email:</label>
+    <input type="email" name="email" id="email"><br><br></p>
+    <p><label for="dob">dob:</label>
+    <input type="date" name="dob" id="dob"><br><br></p>
+    <p><label for="address">address:</label>
+    <textarea id="address" name="address"></textarea><br><br></p>
+    <input type="text" id="txtCaptcha" style="text-align: center; border: none; font-weight: bold; font-size: 20px; font-family: Modern" />  
+
+    <input type="button" id="btnrefresh" value="Refresh" onclick="generateRandomNumber();" />  
+    <input type="text" id="txtCompare" />  <br><br>
+
+   <input type="checkbox" id="checkbox">Accept terms&conditions<br><br>
+  
+
+   
+    <center><input type="submit" value="submit"></center>
+      </div>
+        
+    </form>
+    <script>
+         function generateRandomNumber()
+     {
+      var randomValues = '';
+      var stringValues = 'ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789';
+      var sizeOfCharacter = stringValues.length;
+      for (var i = 0; i < 6; i++) 
+      {
+         randomValues+=stringValues.charAt(Math.floor(Math.random() * sizeOfCharacter));
+      }
+    document.getElementById("txtCaptcha").value=randomValues;
+   }
+
+        function validate()
+        {
+            var firstname=document.getElementById("firstname");
+            var lastname=document.getElementById("lastname");
+            var password=document.getElementById("password");
+            var confirmpassword=document.getElementById("cpassword");
+            var email=document.getElementById("email");
+            var dob=document.getElementById("dob");
+            var address=document.getElementById("address");
+            var checkbox=document.getElementById("checkbox");
+            var mailformat = /^([A-Za-z0-9_\-\.])+\@([A-Za-z0-9_\-\.])+\.([A-Za-z]{2,4})$/;
+
+             
+           var str1 = document.getElementById('txtCaptcha').value;  
+            var str2 = document.getElementById('txtCompare').value; 
+        
+            if(firstname.value=="")
+            {
+                alert("please fill the first name");
+                return false;
+            }
+            if(lastname.value=="")
+            {
+                alert("please fill the last name");
+                return false;
+            }
+            if(password.value=="")
+            {
+                alert("please fill the password");
+                return false;
+            }
+            if(cpassword.value!=password.value)
+            {
+                alert("missmatch");
+                return false;
+            }
+            if(email.value=="")
+            {
+                alert("please fill the email");
+                return false;
+            }
+           if(!email.value.match(mailformat))
+           {
+            alert("invalid email");
+            return false;
+           }
+
+            if(dob.value=="")
+            {
+                alert("please fill the dob");
+                return false;
+            }
+            if(address.value=="")
+            {
+                alert("please fill the address");
+                return false;
+            }
+            if(str1=="")
+            {
+                alert("Enter the  Captcha");
+                return false;     
+            }
+            if(str1 != str2)
+            {
+                alert("Invalid Captcha");
+                return false;     
+            } 
+            if (!checkbox.checked)
+            {
+                alert("accept the terms");
+                return false;
+            }
+            
+            else
+            {
+                alert('registration successfully');
+                return true;
+            }
+            }
+     </script>
+</body>
+</html>

@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+  <h1 id="demo">hii world</h1>
+  <p class="demo1">hello world</p>
+  <p id="demo3">hello</p>
+  <img src="spider.jpeg" id="demo2"> 
+  <button type="button" onclick="document.getElementById('demo').innerHTML=Date()">click here</button>
+  <button type="button" onclick="myFunction()">click me</button>
+  <script>
+    document.getElementById("demo").innerHTML="HELLO"
+    document.getElementsByClassName("demo1")[0].innerHTML="Hii beautiful world"
+    document.getElementById("demo2").src="batman.jpeg"
+    document.getElementsByTagName('h1')[0].innerHTML="header"
+    var test=document.getElementById('demo3');
+    test.innerHTML="BATMAN";
+    test.style.color="red";
+    test.style.fontSize="100px";
+    test.style.textAlign="center";
+    function myFunction()
+    {
+      document.getElementById('demo').innerHTML=Date();
+      alert('hello');
+    }
+  </script>
+</body>
+</html>

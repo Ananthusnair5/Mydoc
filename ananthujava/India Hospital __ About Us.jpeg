@@ -1,0 +1,582 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<!-- saved from url=(0040)http://www.indiahospital.in/AboutUs.aspx -->
+<html xmlns="http://www.w3.org/1999/xhtml" class=""><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+
+<!-- Theme Page Title -->
+<title>
+	India Hospital :: About Us
+</title>
+
+<!-- favicon -->
+<link rel="shortcut icon" href="http://www.indiahospital.in/images/favicon.ico" type="image/x-icon"><link rel="icon" href="http://www.indiahospital.in/images/favicon.ico" type="image/x-icon">
+
+<!-- responsive meta -->
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<!--css link-->
+<link href="./India Hospital __ About Us_files/menuzord.css" rel="stylesheet"><link href="./India Hospital __ About Us_files/style.css" rel="stylesheet"><link href="./India Hospital __ About Us_files/revolution-slider.css" rel="stylesheet"><link href="./India Hospital __ About Us_files/reset-style.css" rel="stylesheet"><link href="./India Hospital __ About Us_files/responsive.css" rel="stylesheet"><link id="ctl00_colorswitcher" href="./India Hospital __ About Us_files/themecolor.css" rel="stylesheet">
+<style type="text/css">.fancybox-margin{margin-right:17px;}</style><script type="text/javascript" charset="UTF-8" src="./India Hospital __ About Us_files/common.js.download"></script><script type="text/javascript" charset="UTF-8" src="./India Hospital __ About Us_files/util.js.download"></script></head>
+<body>
+    <form name="aspnetForm" method="post" action="http://www.indiahospital.in/AboutUs.aspx" id="aspnetForm">
+<div>
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMTY1NDU2MTA1MmRklpyNMRoKbQpFxiSIeMD+rHNU9O4=">
+</div>
+
+    <div class="wrapper">
+ 	
+    <!-- Preloader -->
+    <div class="preloader" style="display: none;"></div>
+    
+    <!-- Start Main Header -->
+    <header class="mega-header">
+        <div class="header-top">
+        
+            <div class="container">
+                <div class="row clearfix">                
+                    <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12">
+	                    <a class="logo" href="http://www.indiahospital.in/Default.aspx"><img src="./India Hospital __ About Us_files/log0.jpg" alt="Logo" title="Medical"></a>
+                    </div>
+                    
+                    <div class="col-lg-8 col-md-8 col-sm-12 header-top-widget headerwidget-style2">
+                        <div class="header-widget">
+                        	<div class="iconbox-widget">
+                        		<div class="icon">
+                        			<i class="flaticon-square"></i>
+                        		</div>
+                        		<div class="box-contenet">
+                        			<h5 class="title"><a href="http://www.indiahospital.in/AboutUs.aspx#">Opening Hours</a></h5>
+                        			<p class="sub-title"><a href="http://www.indiahospital.in/AboutUs.aspx#">Sun - Sat --&gt; 24 X 7</a></p>
+                        		</div>
+                        	</div>
+                        	<div class="iconbox-widget">
+                        		<div class="icon">
+                        			<i class="flaticon-medical-1"></i>
+                        		</div>
+                        		<div class="box-contenet">
+                        			<h5 class="title"><a href="http://www.indiahospital.in/AboutUs.aspx#">Sign In / Sign Up</a></h5>
+                        			<p class="sub-title"><a href="http://www.indiahospital.in/AboutUs.aspx#">For Registered user</a></p>
+                        		</div>
+                        	</div>
+                        	<div class="iconbox-widget">
+                        		<div class="icon">
+                        			<i class="flaticon-telephone-symbol-button"></i>
+                        		</div>
+                        		<div class="box-contenet">
+                        			<h5 class="title"><a href="http://www.indiahospital.in/AboutUs.aspx#">Call Us Today</a></h5>
+                        			<p class="sub-title"><a href="http://www.indiahospital.in/AboutUs.aspx#">+91 9119999070</a></p>
+                        		</div>
+                        	</div>
+                        </div>
+                    </div>                    
+                </div>
+            </div>
+            
+        </div>
+        
+        <!--Header Main-->
+        <div class="header-main" style="z-index: 1000;">
+            <div class="container">
+                <div class="row clearfix">
+                    <!--Main Menu-->
+                    <div class="mega-menu col-lg-12 col-md-12 col-sm-12 col-xs-12">
+                        <nav id="menuzord" class="menuzord menuzord-responsive"><a href="javascript:void(0)" class="showhide" style="display: none;"><em></em><em></em><em></em></a>
+							<ul class="menuzord-menu menuzord-indented scrollable" style="max-height: 400px;">
+                                <li class="active"><a href="http://www.indiahospital.in/Default.aspx">Home</a>
+                                    
+                                </li>
+                                <li><a href="http://www.indiahospital.in/AboutUs.aspx">About</a></li>
+                                
+                                <li><a href="http://www.indiahospital.in/Dr-IndiaHospital.aspx">Doctors</a>
+                                </li><li><a href="http://www.indiahospital.in/IndiaHospital-Gallay.aspx">Gallary</a>
+                                    <!--<ul class="dropdown">
+                                        <li><a href="doctors-style1.html">Doctors Style One</a></li>
+                                        <li><a href="doctors-style2.html">Doctors Style Two</a></li>
+                                        <li><a href="doctor-details.html">Doctor Details</a></li>
+                                    </ul>-->
+                                </li>
+                                <li><a href="javascript:void(0)">Press</a>
+                                    <!--<ul class="dropdown">
+                                        <li><a href="appointment-style1.html">Appointment</a></li>
+                                        <li>
+                                        	<a href="javascript:void(0)">Gallery</a>
+                                        	<ul class="dropdown">
+		                                        <li><a href="gallery-4colunm.html">Gallery Grid 4</a></li>
+		                                        <li><a href="gallery-3colunm.html">Gallery Grid 3</a></li>
+		                                        <li><a href="gallery-fullwide.html">Gallery Fullwide</a></li>
+		                                        <li><a href="gallery-masonry.html">Gallery Masonry</a></li>
+		                                        <li><a href="gallery-masonry-tiles.html">Gallery Masonry Tiles</a></li>
+		                                    </ul>
+                                        </li>
+                                        <li><a href="pricing-style1.html">Pricing</a></li>
+                                        <li><a href="testimonials-style1.html">Testimonials</a></li>
+                                        <li><a href="faq.html">Faq</a></li>
+                                        <li><a href="under-construction.html">Under Construction</a></li>
+                                        <li><a href="404.html">404 Page</a></li>
+                                    </ul>-->
+                                </li>
+                                <li><a href="javascript:void(0)">Blog</a>
+                                   <!-- <ul class="dropdown">
+                                        <li><a href="blog-style1.html">Blog Style One</a></li>
+                                        <li><a href="blog-style2.html">Blog Style Two</a></li>
+                                        <li><a href="blog-style3.html">Blog Style Three</a></li>
+                                        <li><a href="blog-details.html">Blog Details</a></li>
+                                    </ul>-->
+                                </li>
+                                <li><a href="http://www.indiahospital.in/ContactUs.aspx">Contact</a></li>
+							<li class="scrollable-fix"></li></ul>
+
+		                    <div class="appoint-inner">
+		                        <div class="appoint-btn text-right">
+		                            <a href="javascript:void(0)">Appointment Now</a>
+		                        </div>
+		                    </div>
+						</nav>
+                    </div>
+                    <!--Main Menu End-->
+                </div>
+            </div>
+        </div><div></div>
+    </header>
+    <!--End Main Header -->
+   <div>
+        
+
+<div class="main-content">
+
+	    <!--Page Title Start-->
+	    <section class="page-title">
+	        <div class="container">
+	        	<div class="row">
+	        		<div class="col-md-12 page-title-content">
+			            <h2 class="title">About Us</h2>
+			            <ul class="bread-crumb">
+			            	<li><a href="http://www.indiahospital.in/Default.aspx">Home</a></li>
+			                <li><a href="http://www.indiahospital.in/AboutUs.aspx#">About Us</a></li>
+			            </ul>
+	        		</div>
+	        	</div>	            
+	        </div>	        
+	    </section>
+		<!--Page Title End-->
+		<!--Welcome Section Start-->
+		<section class="io_pt fo_pb">
+			<div class="container">
+				<div class="row">
+					<div class="col-lg-8 col-md-12">
+						<div class="inner-title line-bottom fo_mb">
+							<h2 class="title">welcome to India<span> Hospital</span></h2>
+							<h5 class="color-theme oo_mt ae_mb fw-500 lts-1">The Best Medical Service of Lucknow City. Check Our All Feature</h5>
+						<p>Welcome to our new website. We encourage you to find out more about the values and vision that guides us, the services and programs we offer, the indicators that ensure our continued accountability and transparency, and the news and events that matter most to you. It is the place where you will find information on career opportunities with HMH and be able to access general healthcare information to keep you well informed.</p>
+							<p>India Hospital has a proud tradition of care. For Last so many years, India Hospital has cared for the people of Lucknow, surrounding communities, and beyond, being a significant player within the District.  Residing in the heart of a beautiful cottage country on the shores of the Gomti River, we offer healthcare not only to our community residents but to the many visitors who frequent our beautiful area year round.</p>
+							
+						</div>
+						<div class="row">
+						<h3 class="title">Vision</h3>
+						<p>To provide each patient with the world-class care, exceptional service and compassion we would want for our loved ones and To Lead the evolution of healthcare to enable every member of the communities we serve to enjoy a better, healthier life.</p>
+						<h3 class="title">Mission</h3>
+						<p>The mission of India Hospital is to provide quality health services and facilities for the community, to promote wellness, to relieve suffering, and to restore health as swiftly, safely, and humanely as it can be done, consistent with the best service we can give at the highest value for all concerned.</p>
+							
+						</div>
+					</div>
+					<div class="col-md-4">
+						<div class="service-thumb thumb">
+							
+							<iframe style="height: 359px; width: 120%; border: 0;" frameborder="0" src="./India Hospital __ About Us_files/SXiPhhu1cok.html">
+                                </iframe>
+                                
+						</div>
+					</div>
+					<!--Feature Section Start-->
+		<section class="oo_pt ho_pb">
+			<div class="container">
+				<div class="row">
+					<div class="col-md-12 section-title text-center">
+						<h1 class="title">Medical <span>Service</span></h1>
+						<h5 class="sub-title sub-title-center">We Provide Top &amp; best Medical Services in Lucknow City. </h5>
+					</div>
+				</div>
+				<div class="row">
+					<div class="col-md-4 col-sm-6">
+						<div class="feature-box">
+							<div class="icon-box">
+								<i class="flaticon-medical-8 icon"></i>
+							</div>
+							<div class="content">
+								<h5 class="title">Primary Health Care</h5>
+								<p style="text-align:justify;">The ultimate goal of primary health care is better health for all.The aim is to provide an easily accessible route to care, whatever the patient's problem.</p>
+								<a class="btn-link" href="http://www.indiahospital.in/AboutUs.aspx#">read more</a>
+							</div>
+						</div>
+					</div>
+					<div class="col-md-4 col-sm-6">
+						<div class="feature-box">
+							<div class="icon-box">
+								<i class="flaticon-transport icon"></i>
+							</div>
+							<div class="content">
+								<h5 class="title">Critical Care</h5>
+								<p style="text-align:justify;">Our hospitals have specialized critical care areas as per the specialty requirements. These areas also have support of the super specialists.</p>
+								<a class="btn-link" href="http://www.indiahospital.in/AboutUs.aspx#">read more</a>
+							</div>
+						</div>
+					</div>
+					<div class="col-md-4 col-sm-6">
+						<div class="feature-box">
+							<div class="icon-box">
+								<i class="flaticon-medical-4 icon"></i>
+							</div>
+							<div class="content">
+								<h5 class="title">Modern Medical Lab</h5>
+								<p style="text-align:justify;">Our Hospital offers patients the best in diagnostic care without diverting their focus from core healthcare services. By sparing them the effort to manage yet another department.</p>
+								<a class="btn-link" href="http://www.indiahospital.in/AboutUs.aspx#">read more</a>
+							</div>
+						</div>
+					</div>
+					<div class="col-md-4 col-sm-6">
+						<div class="feature-box">
+							<div class="icon-box">
+								<i class="flaticon-medical-3 icon"></i>
+							</div>
+							<div class="content">
+								<h5 class="title">Cancer</h5>
+								<p style="text-align:justify;">We provides comprehensive cancer care with best treatment facilities in Lucknow.Our expert team of oncologists examines every case jointly.</p>
+								<a class="btn-link" href="http://www.indiahospital.in/AboutUs.aspx#">read more</a>
+							</div>
+						</div>
+					</div>
+					<div class="col-md-4 col-sm-6">
+						<div class="feature-box">
+							<div class="icon-box">
+								<i class="flaticon-medical icon"></i>
+							</div>
+							<div class="content">
+								<h5 class="title">Pregnancy Delivery</h5>
+								<p style="text-align:justify;">Our Hospital offers a host of facilities to ensure high quality antenatal care to treatment for expectant mothers, new mothers and babies.</p>
+								<a class="btn-link" href="http://www.indiahospital.in/AboutUs.aspx#">read more</a>
+							</div>
+						</div>
+					</div>
+					<div class="col-md-4 col-sm-6">
+						<div class="feature-box">
+							<div class="icon-box">
+								<i class="flaticon-medical-6 icon"></i>
+							</div>
+							<div class="content">
+								<h5 class="title">Dialysis</h5>
+								<p style="text-align:justify;">Being one of the best diabetes hospitals in the Lucknow, India Hospitals runs an exclusive Institute of Diabetes, Endocrine and Metabolic Disorders.</p>
+								<a class="btn-link" href="http://www.indiahospital.in/AboutUs.aspx#">read more</a>
+							</div>
+						</div>
+					</div>		
+					<div class="col-md-4 col-sm-6">
+						<div class="feature-box">
+							<div class="icon-box">
+								<i class="flaticon-medical-8 icon"></i>
+							</div>
+							<div class="content">
+								<h5 class="title">Medicine</h5>
+								<p style="text-align:justify;">A medical specialty dedicated to the delivery of comprehensive medical care to hospitalized patients, it is a new standard of excellence by delivering care to high-complexity patients.</p>
+								<a class="btn-link" href="http://www.indiahospital.in/AboutUs.aspx#">read more</a>
+							</div>
+						</div>
+					</div>
+					<div class="col-md-4 col-sm-6">
+						<div class="feature-box">
+							<div class="icon-box">
+								<i class="flaticon-medical-8 icon"></i>
+							</div>
+							<div class="content">
+								<h5 class="title">Urology</h5>
+								<p style="text-align:justify;">Our hospitals have a super specialty department that aims at providing consultation, diagnosis and treatment for cancerous (malignant) and noncancerous (benign) diseases of the urinary tract</p>
+								<a class="btn-link" href="http://www.indiahospital.in/AboutUs.aspx#">read more</a>
+							</div>
+						</div>
+					</div>	
+					<div class="col-md-4 col-sm-6">
+						<div class="feature-box">
+							<div class="icon-box">
+								<i class="flaticon-medical-8 icon"></i>
+							</div>
+							<div class="content">
+								<h5 class="title">Neurology</h5>
+								<p style="text-align:justify;">India Hospitals are experts at diagnosing and treating more than 500 neurological conditions, including many rare or complex disorders. we have best in diagnosis and treatment of neurological ailments.</p>
+								<a class="btn-link" href="http://www.indiahospital.in/AboutUs.aspx#">read more</a>
+							</div>
+						</div>
+					</div>	
+					<div class="col-md-4 col-sm-6">
+						<div class="feature-box">
+							<div class="icon-box">
+								<i class="flaticon-medical-8 icon"></i>
+							</div>
+							<div class="content">
+								<h5 class="title">Neuro Surgery</h5>
+								<p style="text-align:justify;"> The department of neurosurgery at India Hospital In Lucknow is well equipped to treat all the neurological diseases including stroke, headache, epilepsy, coma, neuropathies, myopathies, Parkinson's disease</p>
+								<a class="btn-link" href="http://www.indiahospital.in/AboutUs.aspx#">read more</a>
+							</div>
+						</div>
+					</div>	
+					<div class="col-md-4 col-sm-6">
+						<div class="feature-box">
+							<div class="icon-box">
+								<i class="flaticon-medical-8 icon"></i>
+							</div>
+							<div class="content">
+								<h5 class="title">Pediatric Surgery</h5>
+								<p style="text-align:justify;">Our Hospital have a specialist team of professionals that includes neonatologists, intensive care specialists, paediatricians and counsellors whose provide healthcare for the prevention</p> 
+								<a class="btn-link" href="http://www.indiahospital.in/AboutUs.aspx#">read more</a>
+							</div>
+						</div>
+					</div>	
+					<div class="col-md-4 col-sm-6">
+						<div class="feature-box">
+							<div class="icon-box">
+								<i class="flaticon-medical-8 icon"></i>
+							</div>
+							<div class="content">
+								<h5 class="title">Ortho</h5>
+								<p style="text-align:justify;">Our Hospital offering the latest in Orthopedic treatments and Orthopedic surgical advancements in Lucknow. Our Orthopedicians are trained, dedicated &amp; well equipped Orthopedic surgery complexes</p>
+								<a class="btn-link" href="http://www.indiahospital.in/AboutUs.aspx#">read more</a>
+							</div>
+						</div>
+					</div>	
+					<div class="col-md-4 col-sm-6">
+						<div class="feature-box">
+							<div class="icon-box">
+								<i class="flaticon-medical-8 icon"></i>
+							</div>
+							<div class="content">
+								<h5 class="title">ENT</h5>
+								<p style="text-align:justify;">ENT Department Of Our Hospital are known for its ultra-modern facilities, amenities as well as the expert team of ENT surgeons, audiologists and therapists. The department is well equipped with the latest operating microscopes, diagnostic video endoscopes and an up-to-date audiology lab</p>
+								<a class="btn-link" href="http://www.indiahospital.in/AboutUs.aspx#">read more</a>
+							</div>
+						</div>
+					</div>	
+					<div class="col-md-4 col-sm-6">
+						<div class="feature-box">
+							<div class="icon-box">
+								<i class="flaticon-medical-8 icon"></i>
+							</div>
+							<div class="content">
+								<h5 class="title">TB &amp; Chest</h5>
+								<p style="text-align:justify;">Our Hospital specializes in providing advanced pulmonary care to a variety of patients, including the critically-ill and hospitalized patients requiring ventilators.</p>
+								<a class="btn-link" href="http://www.indiahospital.in/AboutUs.aspx#">read more</a>
+							</div>
+						</div>
+					</div>	
+				</div>
+			</div>
+		</section>
+		<!--Feature Section End-->
+				</div>
+			</div>
+		</section>
+		<!--Welcome Section End-->
+		</div>
+
+    </div>
+    <!-- Footer Start-->
+	<footer class="footer-section">
+		<div class="container">
+			<div class="row go_pt fo_pb">
+				<div class="col-lg-3 col-md-3 col-sm-6">
+					<div class="footer-widget">
+					<div class="footer-widget-title">
+							<h4 class="widget-title">Contact Address</h4>
+						</div>
+						
+						<div class="widget-contact">
+							<p><i class="fa fa-map"></i>GF-C-284, Manglam Building, Near 8 No, Chauraha, Nirala Nagar, Lucknow</p>
+							<p><i class="fa fa-envelope"></i>care@indiahospiotal.in</p>
+							<p><i class="flaticon-telephone-symbol-button"></i>(+91) 911 999 9070,0522-4005300 </p>
+						</div>
+						<ul class="social-icons">
+							<li><a href="http://www.indiahospital.in/AboutUs.aspx#"><i class="fa fa-facebook icon"></i></a></li>
+							<li><a href="http://www.indiahospital.in/AboutUs.aspx#"><i class="fa fa-twitter icon"></i></a></li>
+							<li><a href="http://www.indiahospital.in/AboutUs.aspx#"><i class="fa fa-pinterest icon"></i></a></li>
+							<li><a href="http://www.indiahospital.in/AboutUs.aspx#"><i class="fa fa-youtube-play icon"></i></a></li>
+							<li><a href="http://www.indiahospital.in/AboutUs.aspx#"><i class="fa fa-envelope icon"></i></a></li>
+						</ul>
+					</div>
+				</div>
+				<div class="col-lg-3 col-md-3 col-sm-6">
+					<div class="footer-widget">
+						<div class="footer-widget-title">
+							<h4 class="widget-title">Useful Links</h4>
+						</div>
+						<ul class="widget-links">
+							<li><a href="http://www.indiahospital.in/AboutUs.aspx#">About USare</a></li>
+							<li><a href="http://www.indiahospital.in/AboutUs.aspx#">Gallary</a></li>
+							<li><a href="http://www.indiahospital.in/AboutUs.aspx#">Press</a></li>
+							<li><a href="http://www.indiahospital.in/AboutUs.aspx#">Blog</a></li>
+							<li><a href="http://www.indiahospital.in/AboutUs.aspx#">Contact Us</a></li>
+						</ul>
+					</div>
+				</div>
+				<div class="col-lg-3 col-md-2 col-sm-6">
+					<div class="footer-widget">
+						<div class="footer-widget-title">
+							<h4 class="widget-title">services</h4>
+						</div>
+						<ul class="widget-links">
+							<li><a href="http://www.indiahospital.in/AboutUs.aspx#">Primary Health Care</a></li>
+							<li><a href="http://www.indiahospital.in/AboutUs.aspx#">Critical Care</a></li>
+							<li><a href="http://www.indiahospital.in/AboutUs.aspx#">Modern Medical Lab</a></li>
+							<li><a href="http://www.indiahospital.in/AboutUs.aspx#">Cancer</a></li>
+							<li><a href="http://www.indiahospital.in/AboutUs.aspx#">Pregnancy Delivery</a></li>
+							<li><a href="http://www.indiahospital.in/AboutUs.aspx#">Dialysis</a></li>
+						</ul>
+					</div>
+				</div>
+				<div class="col-lg-3 col-md-4 col-sm-6">
+					<div class="footer-widget">
+						<div class="footer-widget-title">
+							<h4 class="widget-title">Latest News</h4>
+						</div>
+						<div class="widget-news">
+							<div class="widget-news-post">
+								<div class="thumb">
+									<img src="./India Hospital __ About Us_files/s1.jpg" alt="">
+								</div>
+								<div class="content">
+									<p class="title"><a href="http://www.indiahospital.in/AboutUs.aspx#">Lorem ipsum dolor sit amet, consectetur adipisicing elit</a></p>
+									<div class="meta-date">25 Feb 2017</div>
+								</div>
+							</div>
+							<div class="widget-news-post">
+								<div class="thumb">
+									<img src="./India Hospital __ About Us_files/s2.jpg" alt="">
+								</div>
+								<div class="content">
+									<p class="title"><a href="http://www.indiahospital.in/AboutUs.aspx#">Lorem ipsum dolor sit amet, consectetur adipisicing elit</a></p>
+									<div class="meta-date">25 Feb 2017</div>
+								</div>
+							</div>
+							<div class="widget-news-post">
+								<div class="thumb">
+									<img src="./India Hospital __ About Us_files/s3.jpg" alt="">
+								</div>
+								<div class="content">
+									<p class="title"><a href="http://www.indiahospital.in/AboutUs.aspx#">Lorem ipsum dolor sit amet, consectetur adipisicing elit</a></p>
+									<div class="meta-date">25 Feb 2017</div>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+		<div class="footer-copyright">
+			<div class="container-fluid">
+				<div class="row">
+					<div class="col-md-12 text-center">
+						<p class="copy-right">© Copyright 2017 - <a href="http://www.indiahospital.in/AboutUs.aspx#" target="_blank">INDIA HOSPITAL </a>| all right reserved </p>
+					</div>
+				</div>
+			</div>
+		</div>
+	</footer>
+	
+	<!--Footer end-->
+
+    <!-- Start Menu Switcher -->
+	<!--<div class="menu-switcher">
+		<a class="switcher-btn" id="switcher-toggle" href="#"><i class="fa fa-cog"></i></a>
+		<h5 class="switcher-title">Reset Theme Style</h5>
+		<h6 class="title">Chose theme color</h6>
+        <ul class="switcher-color">
+            <li>
+                <a class="scr-color1" onclick="swapStyleSheet('css/color/themecolor.css')"></a>
+            </li>
+            <li>
+                <a class="scr-color2" onclick="swapStyleSheet('css/color/themecolor2.css')"></a>
+            </li>
+            <li>
+                <a class="scr-color3" onclick="swapStyleSheet('css/color/themecolor3.css')"></a>
+            </li>
+            <li>
+                <a class="scr-color4" onclick="swapStyleSheet('css/color/themecolor4.css')"></a>
+            </li>
+            <li>
+                <a class="scr-color5" onclick="swapStyleSheet('css/color/themecolor5.css')"></a>
+            </li>
+            <li>
+                <a class="scr-color6" onclick="swapStyleSheet('css/color/themecolor6.css')"></a>
+            </li>
+            <li>
+                <a class="scr-color7" onclick="swapStyleSheet('css/color/themecolor7.css')"></a>
+            </li>
+            <li>
+                <a class="scr-color8" onclick="swapStyleSheet('css/color/themecolor8.css')"></a>
+            </li>
+        </ul>
+		<h6 class="title">Chose layout wide</h6>
+        <ul class="switcher-laout-boxed-wide">
+            <li>
+				<a class="btn-widelayout" href="#btn-widelayout">Wide</a>
+            </li>
+            <li>
+				<a class="btn-boxedlayout" href="#btn-boxedlayout">Boxed</a>
+            </li>
+        </ul>
+		<h6 class="title">Chose Background Image <span>(Boxed Wide)</span></h6>
+        <ul class="switcher-layout-bgimg">
+            <li><a class="switcher-bgi-pattern">rs</a></li>
+            <li><a><img class="switcher-bgi-pattern" src="images/resource/w01.jpg"></a></li>
+            <li><a><img class="switcher-bgi-pattern" src="images/resource/w02.jpg"></a></li>
+            <li><a><img class="switcher-bgi-pattern" src="images/resource/w03.jpg"></a></li>
+            <li><a><img class="switcher-bgi-pattern" src="images/resource/w04.jpg"></a></li>
+            <li><a><img class="switcher-bgi-pattern" src="images/resource/w05.jpg"></a></li>
+
+            <li><a><img class="switcher-bgi-solid" src="images/resource/1.jpg"></a></li>
+            <li><a><img class="switcher-bgi-solid" src="images/resource/2.jpg"></a></li>
+            <li><a><img class="switcher-bgi-solid" src="images/resource/3.jpg"></a></li>
+            <li><a><img class="switcher-bgi-solid" src="images/resource/4.jpg"></a></li>
+            <li><a><img class="switcher-bgi-solid" src="images/resource/5.jpg"></a></li>
+            <li><a><img class="switcher-bgi-solid" src="images/resource/6.jpg"></a></li>
+        </ul>
+    </div>-->
+
+	<!-- Side Menu-->
+	
+
+	<!--Scroll to top-->
+	<div class="scroll-to-top"><span class="fa fa-arrow-up"></span></div>
+
+</div>
+<!--wrapper end-->
+
+<!--Jquery Script-->
+<script src="./India Hospital __ About Us_files/jquery-2.1.4.min.js.download"></script>
+<script src="./India Hospital __ About Us_files/bootstrap.min.js.download"></script>
+<script src="./India Hospital __ About Us_files/menuzord.js.download"></script>
+<script src="./India Hospital __ About Us_files/jPushMenu.js.download"></script>
+<script src="./India Hospital __ About Us_files/revolution.min.js.download"></script>
+<script src="./India Hospital __ About Us_files/owl.js.download"></script>
+<!-- validate -->
+<script src="./India Hospital __ About Us_files/validate.js.download"></script>
+<!-- jQuery ui js -->
+<script src="./India Hospital __ About Us_files/jquery-ui.js.download"></script>
+<!-- appear js -->
+<script src="./India Hospital __ About Us_files/jquery.appear.js.download"></script>
+<!-- isotope -->
+<script src="./India Hospital __ About Us_files/isotope.pkgd.min.js.download"></script>
+<!-- count to -->
+<script src="./India Hospital __ About Us_files/jquery.countTo.js.download"></script>
+<!-- fancybox -->
+<script src="./India Hospital __ About Us_files/jquery.fancybox.pack.js.download"></script>
+<!-- easing -->
+<script src="./India Hospital __ About Us_files/jquery.easing.min.js.download"></script>
+<script src="./India Hospital __ About Us_files/wow.js.download"></script>
+<script src="./India Hospital __ About Us_files/rev-custom.js.download"></script>
+<script src="./India Hospital __ About Us_files/customcollection.js.download"></script>
+<script src="./India Hospital __ About Us_files/custom.js.download"></script>
+<!-- map -->
+<script src="./India Hospital __ About Us_files/js"></script>
+<script src="./India Hospital __ About Us_files/gmaps.js.download"></script>
+<script src="./India Hospital __ About Us_files/custom-map.js.download"></script>
+
+    </form>
+
+
+</body></html>
